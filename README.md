@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning linux os with office management softwear, LAMP architecture and Library automation or digital library.
 - 🌱 I’m currently learning ...Library and Information Science or Data Management
 - 💞️ I’m looking to collaborate on ...Library service such as cataloguing, HTML, CSS, XML and c program.
-- 📫 How to reach me ...you can conncet me using this fb.com/dipu.alnur
+- 📫 How to reach me ...you can conncet me using this mdmonirulalnur@gmail.com
 
 <!---
 dipualnur/dipualnur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
